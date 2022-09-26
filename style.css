@@ -1,0 +1,30 @@
+.jumbotron {
+    padding: 6rem;
+    background-color: darkred;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+.jumbotron p {
+    color: whitesmoke;
+}
+
+#project {
+    background-color: darkred;
+    color : whitesmoke;
+}
+
+.card-text {
+    color:black;
+}
+
+footer {
+    color:whitesmoke;
+}
+
+section {
+    padding-top: 6rem;
+    padding-bottom: 3rem;
+}
